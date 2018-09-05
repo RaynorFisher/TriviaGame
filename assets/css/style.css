@@ -1,0 +1,36 @@
+body {
+	margin: 0px;
+	background-image: url(https://vignette.wikia.nocookie.net/starwars/images/e/eb/Theedroyalpalace.png/revision/latest?cb=20130719122716);
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+h1 {
+
+	font-weight: 200;
+	color: red;
+	font-size: 3em;	
+	margin-top: 15px;
+	text-align: center;
+}
+
+h2 {
+	color: red;
+}
+
+#start {
+	text-align: left;
+}
+
+div#quiz-area {
+	margin-top: 10px;
+	padding: 10px;
+}
+
+div#sub-wrapper {
+	background: #fff;
+	opacity: 0.7;
+	text-align: center;
+}
